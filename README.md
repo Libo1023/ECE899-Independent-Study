@@ -1,5 +1,4 @@
 # ECE899-Independent-Study
-### Fall 2022 Health Data Science Research Program, Duke AI Health 
 ### Efficient Classification of Whole Slide Images with Self-Attention Layers 
 ##### Link to Project Poster
 **models.py** contains all optimizable modules/layers of the two-level zoom-in network.  
