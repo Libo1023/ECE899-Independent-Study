@@ -1,4 +1,5 @@
 # ECE899-Independent-Study
+### Fall 2022 Health Data Science Research Program
 ### Efficient Classification of Whole Slide Images with Self-Attention Layers  
 models.py contains all optimizable modules/layers of the two-level zoom-in network.  
 utilities.py contains all customized helper functions for data preprocessing and network optimization/evaluation.  
