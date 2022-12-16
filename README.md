@@ -4,7 +4,7 @@
 
 **models.py** contains optimizable modules/layers of the two-level zoom-in network.  
 
-**utilities.py** contains customized helper functions for data preprocessing and network optimization/evaluation.  
+**utilities.py** contains customized helper functions for data preprocessing and network optimization.  
 
 **train.py** contains detailed implementations of how to optimize and evaluate the two-level zoom-in network.  
 
