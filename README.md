@@ -1,6 +1,7 @@
 # ECE899-Independent-Study
 ### Efficient Classification of Whole Slide Images with Self-Attention Layers 
-##### Link to Project Poster
+One Drive Link to Project Poster  
+
 **models.py** contains all optimizable modules/layers of the two-level zoom-in network.  
 
 **utilities.py** contains all customized helper functions for data preprocessing and network optimization/evaluation.  
