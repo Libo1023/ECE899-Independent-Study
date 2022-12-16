@@ -1,5 +1,6 @@
 # ECE899-Independent-Study
-### Efficient Classification of Whole Slide Images with Self-Attention Layers  
+### Efficient Classification of Whole Slide Images with Self-Attention Layers
+#### Fall 2022 Health Data Science Research Program, Duke AI Health
 **models.py** contains all optimizable modules/layers of the two-level zoom-in network.  
 **utilities.py** contains all customized helper functions for data preprocessing and network optimization/evaluation.  
 **train.py** contains detailed implementations of how to optimize and evaluate the two-level zoom-in network.  
